@@ -1,0 +1,13 @@
+{
+  "name": "git-hooks-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Fengfengfeng-up/git-hooks-learning.git",
+  "author": "冯风风 <1010423552@qq.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "husky": "^4.3.6"
+  }
+}
