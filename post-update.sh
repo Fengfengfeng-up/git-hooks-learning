@@ -1,3 +1,3 @@
 #!bin/sh
 
-echo 'post-update'
+echo '1'
