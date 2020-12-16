@@ -1,3 +1,3 @@
 #!bin/sh
 
-echo 'This is pre-push hook'
+echo 'This is pre-push'
