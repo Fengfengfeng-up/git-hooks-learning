@@ -1,3 +1,3 @@
 #!bin/sh
 
-echo 'This is post-receive hook'
+echo 'This is post-receive'
